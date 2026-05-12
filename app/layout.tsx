@@ -19,12 +19,12 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'VELORA Beauty Salon | Premium Hair & Beauty Services in Dubai',
-  description: 'Experience luxury beauty services at VELORA Dubai. Expert hair styling, color treatments, bridal packages, and premium skincare. Book your appointment today.',
-  keywords: 'Dubai salon, luxury beauty, hair styling Dubai, bridal makeup Dubai, keratin treatment, premium salon Dubai Marina',
+  title: 'Sukrah Beauty Saloon | Premium Hair & Beauty Services in Dubai',
+  description: 'Experience luxury beauty services at Sukrah Beauty Saloon in Dubai. Expert hair styling, color treatments, bridal packages, and premium skincare. Book your appointment today.',
+  keywords: 'Sukrah Beauty Saloon, Dubai salon, luxury beauty, hair styling Dubai, bridal makeup Dubai, keratin treatment, premium salon Dubai Marina',
   openGraph: {
-    title: 'VELORA Beauty Salon | Premium Hair & Beauty Services in Dubai',
-    description: 'Experience luxury beauty services at VELORA Dubai. Expert hair styling, color treatments, bridal packages, and premium skincare.',
+    title: 'Sukrah Beauty Saloon | Premium Hair & Beauty Services in Dubai',
+    description: 'Experience luxury beauty services at Sukrah Beauty Saloon in Dubai. Expert hair styling, color treatments, bridal packages, and premium skincare.',
     type: 'website',
     locale: 'en_AE',
   },

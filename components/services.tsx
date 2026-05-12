@@ -180,7 +180,7 @@ export function Services() {
             Crafted for Excellence
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-base lg:text-lg">
-            Every service at VELORA is designed to deliver exceptional results, combining artistry with the finest products and techniques.
+            Every service at Sukrah Beauty Saloon is designed to deliver exceptional results, combining artistry with the finest products and techniques.
           </p>
         </div>
 

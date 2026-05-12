@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* VELORA Luxury Beauty Salon - Design Tokens */
+  /* Sukrah Beauty Saloon — design tokens */
   --background: #FAF8F5;
   --foreground: #1C1C1C;
   --card: #FFFFFF;
@@ -68,7 +68,7 @@
   }
 }
 
-/* Custom Animations for VELORA */
+/* Custom animations — Sukrah Beauty Saloon */
 @keyframes marquee {
   0% {
     transform: translateX(0);

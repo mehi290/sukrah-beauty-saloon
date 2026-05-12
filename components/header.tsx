@@ -7,7 +7,6 @@ import { cn } from "@/lib/utils"
 
 const navLinks = [
   { href: "#services", label: "Services" },
-  { href: "#packages", label: "Packages" },
   { href: "#testimonials", label: "Testimonials" },
   { href: "#contact", label: "Contact" },
 ]
@@ -55,9 +54,12 @@ export function Header() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <nav className="flex items-center justify-between h-16 lg:h-20" style={{ color: "#fdf6f6" }}>
             {/* Logo */}
-            <a href="#" className="flex-shrink-0">
-              <span className="font-serif text-2xl lg:text-3xl font-medium tracking-tight" style={{ color: "#fdf6f6" }}>
-                VELORA
+            <a href="#" className="flex-shrink-0 min-w-0 mr-2 sm:mr-4">
+              <span
+                className="font-serif text-xl sm:text-2xl lg:text-3xl font-bold tracking-tight leading-tight inline-block text-left"
+                style={{ color: "#fdf6f6" }}
+              >
+                Sukrah Beauty Saloon
               </span>
             </a>
 

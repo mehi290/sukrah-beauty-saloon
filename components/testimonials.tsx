@@ -12,7 +12,7 @@ const testimonials = [
     role: "Diamond Member",
     avatar: "/images/testimonials/avatar-1.jpg",
     rating: 5,
-    text: "VELORA has completely transformed my hair care routine. The attention to detail and personalized service is unmatched in Dubai. My balayage has never looked better!",
+    text: "Sukrah Beauty Saloon has completely transformed my hair care routine. The attention to detail and personalized service is unmatched in Dubai. My balayage has never looked better!",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const testimonials = [
     role: "Platinum Member",
     avatar: "/images/testimonials/avatar-2.jpg",
     rating: 5,
-    text: "As someone who has tried many salons in Dubai Marina, I can confidently say VELORA is in a league of its own. The keratin treatment lasted months longer than anywhere else.",
+    text: "As someone who has tried many salons in Dubai Marina, I can confidently say Sukrah Beauty Saloon is in a league of its own. The keratin treatment lasted months longer than anywhere else.",
   },
   {
     id: 3,

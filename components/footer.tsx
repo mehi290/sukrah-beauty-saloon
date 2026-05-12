@@ -23,11 +23,11 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
           {/* Brand Column */}
           <div className="lg:col-span-1">
-            <h2 className="font-serif text-3xl font-medium tracking-tight mb-4">
-              VELORA
+            <h2 className="font-serif text-2xl sm:text-3xl font-medium tracking-tight mb-4 leading-tight">
+              Sukrah Beauty Saloon
             </h2>
             <p className="text-background/70 text-sm leading-relaxed mb-6">
-              Where beauty meets artistry. Experience premium salon services in the heart of Dubai Marina.
+              Experience premium salon services in Ajman.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (
@@ -71,8 +71,8 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                 <span className="text-background/70 text-sm">
-                  Marina Plaza, Tower B<br />
-                  Dubai Marina, UAE
+                  Al Yasmeen - Ajman<br />
+                  UAE
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -81,16 +81,16 @@ export function Footer() {
                   href="tel:+97145551234" 
                   className="text-background/70 hover:text-primary transition-colors text-sm"
                 >
-                  +971 4 555 1234
+                  +971 501727525
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary flex-shrink-0" />
                 <a 
-                  href="mailto:hello@velora.ae" 
+                  href="mailto:hello@sukrahbeautysaloon.com" 
                   className="text-background/70 hover:text-primary transition-colors text-sm"
                 >
-                  hello@velora.ae
+                  hello@sukrahbeautysaloon.com
                 </a>
               </li>
             </ul>
@@ -124,7 +124,7 @@ export function Footer() {
         <div className="mt-16 pt-8 border-t border-background/10">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-background/50 text-sm">
-              2024 VELORA Beauty Salon. All rights reserved.
+              2024 Sukrah Beauty Saloon. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-background/50 hover:text-primary text-sm transition-colors">
