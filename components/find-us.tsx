@@ -1,8 +1,8 @@
 import { Clock, MapPin, MessageCircle, Phone } from "lucide-react"
 
 const ADDRESS = " Mena Bazar Burdubai - Al Souq Al Kabeer - Al Fahidi - Dubai"
-const PHONE = "+971 501727525"
-const PHONE_LINK = "+971501727525"
+const PHONE = "+971  4 358 5848"
+const PHONE_LINK = "+971 4 358 5848"
 const HOURS = "Mon-Sun 10:00 AM - 10:00 PM"
 
 const mapEmbedSrc = `https://maps.google.com/maps?q=${encodeURIComponent(ADDRESS)}&t=&z=16&ie=UTF8&iwloc=&output=embed`
