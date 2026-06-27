@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* Sukrah Beauty Saloon — design tokens */
+  /* Sehrish Beauty Saloon — design tokens */
   --background: #FAF8F5;
   --foreground: #1C1C1C;
   --card: #FFFFFF;
@@ -60,19 +60,22 @@
   * {
     @apply border-border outline-ring/50;
   }
+
   body {
     @apply bg-background text-foreground;
   }
+
   html {
     scroll-behavior: smooth;
   }
 }
 
-/* Custom animations — Sukrah Beauty Saloon */
+/* Custom animations — Sehrish Beauty Saloon */
 @keyframes marquee {
   0% {
     transform: translateX(0);
   }
+
   100% {
     transform: translateX(-50%);
   }
@@ -83,6 +86,7 @@
     opacity: 0;
     transform: translateY(20px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0);
@@ -94,6 +98,7 @@
     opacity: 0;
     transform: translateX(20px);
   }
+
   100% {
     opacity: 1;
     transform: translateX(0);
@@ -176,6 +181,7 @@
   .cursor-none-on-desktop {
     cursor: none !important;
   }
+
   .cursor-none-on-desktop * {
     cursor: none !important;
   }

@@ -59,7 +59,7 @@ export function Header() {
                 className="font-serif text-xl sm:text-2xl lg:text-3xl font-bold tracking-tight leading-tight inline-block text-left"
                 style={{ color: "#fdf6f6" }}
               >
-                Sukrah Beauty Saloon
+                Sehrish Beauty Saloon
               </span>
             </a>
 

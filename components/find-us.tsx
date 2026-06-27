@@ -1,6 +1,6 @@
 import { Clock, MapPin, MessageCircle, Phone } from "lucide-react"
 
-const ADDRESS = "Al Yasmeen - Ajman - UAE"
+const ADDRESS = " Mena Bazar Burdubai - Al Souq Al Kabeer - Al Fahidi - Dubai"
 const PHONE = "+971 501727525"
 const PHONE_LINK = "+971501727525"
 const HOURS = "Mon-Sun 10:00 AM - 10:00 PM"
@@ -25,8 +25,8 @@ export function FindUs() {
               id="find-us-heading"
               className="font-serif text-3xl sm:text-4xl lg:text-[2.75rem] font-normal leading-tight text-white mb-10"
             >
-              Visit <span className="lowercase">Sukrah Beauty Saloon</span>{" "}
-              
+              Visit <span className="lowercase">Sehrish Beauty Saloon</span>{" "}
+
             </h2>
 
             <ul className="space-y-5 text-sm sm:text-base text-white/90 mb-10">
@@ -82,7 +82,7 @@ export function FindUs() {
 
           <div className="w-full overflow-hidden rounded-sm bg-neutral-900 h-[300px] sm:h-[380px] lg:h-[440px]">
             <iframe
-              title="Map — sukrah beauty saloon, Sharjah"
+              title="Map — Sehrish beauty saloon, Sharjah"
               src={mapEmbedSrc}
               className="h-full w-full border-0"
               loading="lazy"

@@ -128,13 +128,13 @@ function ServiceCard({ service, index }: { service: Service; index: number }) {
             )}
           />
         )}
-        
+
         {/* Gradient Overlay */}
         <div className={cn(
           "absolute inset-0 bg-gradient-to-t from-foreground/80 via-foreground/20 to-transparent transition-opacity duration-300",
           isHovered ? "opacity-90" : "opacity-70"
         )} />
-        
+
         {/* Content */}
         <div className="absolute inset-0 flex flex-col justify-end p-6">
           <h3 className="font-serif text-xl sm:text-2xl text-white mb-2">
@@ -180,7 +180,7 @@ export function Services() {
             Crafted for Excellence
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-base lg:text-lg">
-            Every service at Sukrah Beauty Saloon is designed to deliver exceptional results, combining artistry with the finest products and techniques.
+            Every service at Sehrish Beauty Saloon is designed to deliver exceptional results, combining artistry with the finest products and techniques.
           </p>
         </div>
 

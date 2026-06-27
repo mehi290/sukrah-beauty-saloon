@@ -24,10 +24,10 @@ export function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <h2 className="font-serif text-2xl sm:text-3xl font-medium tracking-tight mb-4 leading-tight">
-              Sukrah Beauty Saloon
+              Sehrish Beauty Saloon
             </h2>
             <p className="text-background/70 text-sm leading-relaxed mb-6">
-              Experience premium salon services in Ajman.
+              Experience premium salon services in Dubai.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (
@@ -71,14 +71,14 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                 <span className="text-background/70 text-sm">
-                  Al Yasmeen - Ajman<br />
-                  UAE
+                  Mena Bazar Burdubai - Al Souq Al Kabeer - Al Fahidi<br />
+                  Dubai
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary flex-shrink-0" />
-                <a 
-                  href="tel:+97145551234" 
+                <a
+                  href="tel:+97145551234"
                   className="text-background/70 hover:text-primary transition-colors text-sm"
                 >
                   +971 501727525
@@ -86,11 +86,11 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary flex-shrink-0" />
-                <a 
-                  href="mailto:hello@sukrahbeautysaloon.com" 
+                <a
+                  href="mailto:hello@sehrishbeautysaloon.com"
                   className="text-background/70 hover:text-primary transition-colors text-sm"
                 >
-                  hello@sukrahbeautysaloon.com
+                  hello@sehrishbeautysaloon.com
                 </a>
               </li>
             </ul>
@@ -124,7 +124,7 @@ export function Footer() {
         <div className="mt-16 pt-8 border-t border-background/10">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-background/50 text-sm">
-              2024 Sukrah Beauty Saloon. All rights reserved.
+              2024 sehrish Beauty Saloon. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-background/50 hover:text-primary text-sm transition-colors">

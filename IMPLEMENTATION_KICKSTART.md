@@ -1,4 +1,4 @@
-# Sukrah Beauty Saloon - Implementation Plan
+# Sehrish Beauty Saloon - Implementation Plan
 
 ## Project Overview
 
@@ -211,8 +211,8 @@
 
 ### Meta Tags
 ```html
-<title>Sukrah Beauty Saloon | Premium Hair & Beauty Services in Dubai</title>
-<meta name="description" content="Experience luxury beauty services at Sukrah Beauty Saloon in Dubai. Expert hair styling, color treatments, bridal packages, and premium skincare. Book your appointment today." />
+<title>Sehrish Beauty Saloon | Premium Hair & Beauty Services in Dubai</title>
+<meta name="description" content="Experience luxury beauty services at Sehrish Beauty Saloon in Dubai. Expert hair styling, color treatments, bridal packages, and premium skincare. Book your appointment today." />
 <meta name="keywords" content="Dubai salon, luxury beauty, hair styling Dubai, bridal makeup Dubai, keratin treatment" />
 ```
 
@@ -312,6 +312,6 @@
 
 ## Ready for Development
 
-This plan provides complete specifications for building the Sukrah Beauty Saloon luxury landing page as a frontend prototype. All interactions are UI-only with no backend dependencies.
+This plan provides complete specifications for building the Sehrish Beauty Saloon luxury landing page as a frontend prototype. All interactions are UI-only with no backend dependencies.
 
 **Approval Required**: Please confirm this implementation plan before we proceed with coding.
